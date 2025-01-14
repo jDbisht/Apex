@@ -1,0 +1,39 @@
+.Banner{
+    width:initial;
+    background-image: url(/img/Banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+};
+.dark-bg{
+    background-color: rgb(241, 120, 7);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+.card-bg{
+    background-color: rgb(255, 115, 0);
+}
+.price-bg{
+    background-color: black;
+}
+.dance-bg{
+background-color: rgb(255, 115, 0);
+}
+.lightwhite-bg{
+    background-image: url(/img/fullimage.jpg);
+}
+footer .list-item li a{
+    font-size:16px;
+   color: #ffffff;
+   list-style: none !important;
+}
+footer .list-item li  {
+    padding: 0;
+	margin-top:20px;
+    list-style: none !important;
+}
+footer .list-item li a {
+	text-decoration:none !important;
+}
