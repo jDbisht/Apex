@@ -1,3 +1,6 @@
+.navbar-toggler{
+    background-color: #ffffff;
+}
 .Banner{
     width:initial;
     background-image: url(/img/Banner.png);
@@ -23,6 +26,9 @@ background-color: rgb(255, 115, 0);
 }
 .lightwhite-bg{
     background-image: url(/img/fullimage.jpg);
+}
+footer .list-item{
+    padding: 0;
 }
 footer .list-item li a{
     font-size:16px;
